@@ -1,4 +1,4 @@
-const API = 'http://localhost:3000/todos';
+const API = 'https://todo-app-production-c006.up.railway.app/todos';
 
 const input = document.getElementById('todoInput');
 const addBtn = document.getElementById('addBtn');
